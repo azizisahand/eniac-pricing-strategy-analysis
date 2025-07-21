@@ -32,3 +32,11 @@ The analysis will utilize Eniac's internal, non-anonymized transactional and cus
 - NumPy: For numerical operations.
 
 - Matplotlib / Seaborn: For data visualization and reporting.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+* **GitHub:** [@zehando](https://github.com/zehando)
+* **LinkedIn:** [Sahand Azizi](https://www.linkedin.com/in/sahandazizi/)
+* **Email:** azizisahand@gmail.com
