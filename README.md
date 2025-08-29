@@ -1,4 +1,5 @@
 # Eniac - Product Discount Impact Analysis
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ## Project Overview
 This project delves into Eniac's internal sales and customer data to rigorously analyze the effects of product discounts. The primary goal is to provide data-driven insights to resolve an internal debate between the Marketing Team, who advocate for discounts to boost customer metrics, and the Board, concerned about the impact of aggressive discounting on total revenue and brand positioning.
 
