@@ -34,10 +34,25 @@ The analysis will utilize Eniac's internal, non-anonymized transactional and cus
 
 - Matplotlib / Seaborn: For data visualization and reporting.
 
-## Contact
+## 🤝 Contact
 
 For any questions or feedback, feel free to reach out:
 
-* **GitHub:** [@zehando](https://github.com/zehando)
-* **LinkedIn:** [Sahand Azizi](https://www.linkedin.com/in/sahandazizi/)
-* **Email:** azizisahand@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahandazizi/">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+      alt="LinkedIn"
+      width="60"
+    >
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/azizisahand">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
+      alt="GitHub"
+      width="50"
+    >
+  </a>
+</p>
